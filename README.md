@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Mi primer repositorio de prueba
 
 Autor: Rafael Callata F.
